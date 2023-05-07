@@ -1,0 +1,22 @@
+body{
+    background:black;
+}
+#two{
+    background-color: black;
+    border:5px solid white;
+
+    
+}
+h1{
+    color:bisque;
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
